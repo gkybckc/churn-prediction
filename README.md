@@ -18,9 +18,13 @@ Customer churn is a critical metric for businesses. Identifying customers likely
 
 ## 📁 Structure
 churn-prediction/
+
 ├── data/
+
 ├── notebooks/
+
 │ └── 01_data_cleaning.ipynb
+
 └── README.md
 
 
